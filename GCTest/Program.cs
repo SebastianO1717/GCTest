@@ -60,7 +60,7 @@ public class Program
         CreateFoo();
 
         // Let's force garbage collection
-        Console.WriteLine("Forcing garbage collection...:)");
+        Console.WriteLine("Forcing garbage collection...:):)");
         GC.Collect();
         GC.WaitForPendingFinalizers();
 
