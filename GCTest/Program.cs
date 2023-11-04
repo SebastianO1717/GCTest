@@ -34,7 +34,7 @@ public class FooClass : IDisposable
 
     ~FooClass()
     {
-        Console.WriteLine("In the finalizer");
+        Console.WriteLine("In the finalizer  ");
         if (!disposed)
         {
             Dispose();
