@@ -6,6 +6,7 @@ public class SomeGarbage
 }
 // comment from mrTest2
 // comment from GCTest!
+// new PR branch same
 public class FooClass : IDisposable
 {
     private bool disposed = false;
