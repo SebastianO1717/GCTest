@@ -18,7 +18,7 @@ public class FooClass : IDisposable
     public SomeGarbage garbage { get; set; }
 
     public FooClass()
-    {
+    {asdfasdf
         age = 42;
         array = new List<int> { 1, 2, 3 };
         garbage = new SomeGarbage();
