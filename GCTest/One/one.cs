@@ -77,4 +77,10 @@ public class Program
             Console.WriteLine(foo.garbage);
         }
     }
+
+
+    static void voo()
+    {
+
+    }
 }
