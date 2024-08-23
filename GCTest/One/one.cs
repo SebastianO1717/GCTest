@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Program.cs new comment
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
@@ -34,7 +34,7 @@ public class FooClass : IDisposable
 
     ~FooClass()
     {
-        Console.WriteLine("In the finalizer");
+        Console.WriteLine("In the finalizer  ");
         if (!disposed)
         {
             Dispose();
@@ -56,11 +56,11 @@ public class Program
 
         // Create foo
         // If we don't create the object in a separate method, the object would still be in "use" or in the same running code
-        // making it not eligible for garbage collection.
+        // making it not eligible for garbage collection....
         CreateFoo();
 
         // Let's force garbage collection
-        Console.WriteLine("Forcing garbage collection...");
+        Console.WriteLine("Forcing garbage collection...:):)");
         GC.Collect();
         GC.WaitForPendingFinalizers();
 
@@ -76,5 +76,11 @@ public class Program
             Console.WriteLine(foo.GetName());
             Console.WriteLine(foo.garbage);
         }
+    }
+
+
+    static void voo()
+    {
+
     }
 }
