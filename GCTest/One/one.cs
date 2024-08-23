@@ -1,5 +1,5 @@
 ﻿using System;
-// Program.cs
+// Program.cs new comment
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
