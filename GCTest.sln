@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F641AE6-9FF0-4705-9687-0FFE143725FF}"
 	ProjectSection(SolutionItems) = preProject
 		MergeOne.cs = MergeOne.cs
+		MergeTwo.cs = MergeTwo.cs
 	EndProjectSection
 EndProject
 Global
