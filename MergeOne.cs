@@ -4,6 +4,6 @@ public class Class1
 {
 	public Class1()
 	{
-		// my new class in main //new main change
+		// my new class in main //new main change // 2
 	}
 }
