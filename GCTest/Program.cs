@@ -1,10 +1,10 @@
 ﻿using System;
-
+// comment from mr
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
 }
-
+// comment from mrTest2
 public class FooClass : IDisposable
 {
     private bool disposed = false;
