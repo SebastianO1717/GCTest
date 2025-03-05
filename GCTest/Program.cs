@@ -4,7 +4,7 @@ public class SomeGarbage
 {
     public static string name = "SomeGarbage";
 }
-
+// one commit
 public class FooClass : IDisposable
 {
     private bool disposed = false;
