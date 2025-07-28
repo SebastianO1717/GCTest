@@ -11,6 +11,8 @@ namespace GCTest.One
         public void Foo()
         {
             Console.WriteLine("New Commit");
+            Console.WriteLine("New Commit with polling");
+            Console.WriteLine("Same amend commit");
         }
     }
 }
