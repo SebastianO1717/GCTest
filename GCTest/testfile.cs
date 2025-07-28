@@ -9,5 +9,6 @@ namespace GCTest
     internal class testfile
     {
         // 1
+        // 2
     }
 }
