@@ -10,7 +10,8 @@ namespace GCTest.One
     {
         public void Foo()
         {
-            Console.WriteLine("This is a new test file")
+            Console.WriteLine("This is a new test file");
+            Console.WriteLine("Debugging issues")
         }
     }
 }
