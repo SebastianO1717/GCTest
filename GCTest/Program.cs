@@ -1,10 +1,11 @@
 ﻿using System;
-
+// comment from mr
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
 }
-
+// comment from mrTest2
+// comment from GCTest!
 public class FooClass : IDisposable
 {
     private bool disposed = false;
