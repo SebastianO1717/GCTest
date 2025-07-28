@@ -13,6 +13,7 @@ namespace GCTest.One
             Console.WriteLine("New Commit");
             Console.WriteLine("New Commit with polling");
             Console.WriteLine("Same amend commit");
+            Console.WriteLine("We turned on the polling AND refreshing :)")
         }
     }
 }
