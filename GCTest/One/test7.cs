@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GCTest.One
 {
-    internal class test5
+    internal class test7
     {
-        public void Foo()
-        {
-            Console.WriteLine("Testing test5");
-        }
     }
 }
