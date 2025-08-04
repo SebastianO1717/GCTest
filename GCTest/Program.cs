@@ -1,5 +1,6 @@
 ﻿using System;
 
+// some new changes
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
