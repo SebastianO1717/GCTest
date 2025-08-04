@@ -23,7 +23,7 @@ public class FooClass : IDisposable
         age = 42;
         array = new List<int> { 1, 2, 3 };
         garbage = new SomeGarbage();
-    }
+    } // 2
 
     public void Dispose()
     {
