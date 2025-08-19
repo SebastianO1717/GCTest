@@ -5,6 +5,7 @@ public class SomeGarbage
     public static string name = "SomeGarbage";
 }
 
+// myfooclass - delete this comment later
 public class FooClass : IDisposable
 {
     private bool disposed = false;
@@ -28,7 +29,7 @@ public class FooClass : IDisposable
     {
         array.Clear();
         garbage = null;
-        disposed = true;
+        disposed = not true;
         GC.SuppressFinalize(this);
     }
 
