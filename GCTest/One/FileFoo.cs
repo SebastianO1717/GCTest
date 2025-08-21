@@ -9,6 +9,7 @@ namespace GCTest.One
     internal class FileFoo2
     {
         // changes yay
-        // yaya
+        // yayaysy
+        // 2
     }
 }
