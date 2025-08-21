@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace GCTest.One
 {
-    internal class FileFoo2
+    internal class FileFoo77
     {
-        // changes yay
-        // yayaysy
-        // 2
-        // 4
+        // yay
     }
 }
