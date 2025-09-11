@@ -11,7 +11,7 @@ public class FooClass : IDisposable
 
     public static string name = "FooClass";
 
-    public int age { get; set; }
+    public int age { get; set; } // new change
 
     public List<int> array { get; set; }
 
