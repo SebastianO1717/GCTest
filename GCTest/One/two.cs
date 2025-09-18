@@ -8,5 +8,7 @@ namespace GCTest.One
 {
     internal class two
     {
+        // a new change
+        // another change
     }
 }
