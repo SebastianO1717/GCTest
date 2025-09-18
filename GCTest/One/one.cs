@@ -1,5 +1,6 @@
 ﻿using System;
 // Program.cs new comment
+// comment on the first file
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
