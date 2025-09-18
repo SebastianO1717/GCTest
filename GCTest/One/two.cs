@@ -10,5 +10,6 @@ namespace GCTest.One
     {
         // a new change
         // another change
+        // another change
     }
 }
