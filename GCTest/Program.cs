@@ -6,7 +6,7 @@ public class SomeGarbage
 }
 // comment from mrTest2
 // comment from GCTest!
-public class FooClass : IDisposable
+public class FooClass : IDisposablesss
 {
     private bool disposed = false;
 
