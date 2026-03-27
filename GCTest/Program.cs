@@ -1,6 +1,5 @@
 ﻿using System;
-
-// some new changes
+// testing status test
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
