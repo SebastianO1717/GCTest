@@ -8,5 +8,6 @@ namespace GCTest
 {
     internal class test1
     {
+        // adding a new test
     }
 }
