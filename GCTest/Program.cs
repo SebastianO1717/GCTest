@@ -1,5 +1,6 @@
 ﻿using System;
 
+// commit 100
 public class SomeGarbage
 {
     public static string name = "SomeGarbage";
